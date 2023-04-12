@@ -1,5 +1,18 @@
 # Installation guide
 
+## Hosts
+
+```
+# Host addresses
+127.0.0.1  localhost
+127.0.1.1  alex
+::1        localhost ip6-localhost ip6-loopback
+ff02::1    ip6-allnodes
+ff02::2    ip6-allrouters
+
+192.168.100.5 alex
+```
+
 ## Base installations
 
 * curl, wget, git
